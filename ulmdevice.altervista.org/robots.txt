@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /compile/
+Disallow: /style/
+Disallow: /users/
+Disallow: /images/
+Disallow: /sessions/
+Disallow: /authentication.php
+Disallow: /analyticstracking.php
+Disallow: /mail.php
+Disallow: /appimages/*
